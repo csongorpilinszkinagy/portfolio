@@ -1,8 +1,7 @@
 # ML portfolio
 ## Current repos
 
-| Name | Visibility | Description | Language | State |
-| --- | --- | --- | --- | --- |
+| **Name** | **Visibility** | **Description** | **Language** | **State** |
 | [Time is money](https://github.com/csongorpilinszkinagy/time-is-money) | Private | Rucksack method for finding the optimal hourly rate | Python but should convert to JS | Unfinished |
 | [Reinforcement learning](https://github.com/csongorpilinszkinagy/reinforcement-learning) | Public | Course by David Silver | Python | Unfinished |
 | [SaaS project](https://github.com/csongorpilinszkinagy/saas-project) | Public | Course by Will Kwan | | TODO |
