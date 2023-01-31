@@ -13,14 +13,14 @@
 ## Portfolio ideas to implement
 ### Beginner
 
-| Name | Type | Packages | State |
+| **Name** | **Type** | **Packages** | **State** |
 | Predict churn | Binary classification | Pandas, Scikit-Learn | TODO |
 | Sales forecasting | Regression | Pandas, Scikit-Learn | TODO |
 | Sentiment analysis | NLP classification | NLTK, TextBlob | TODO |
 
 ### Intermediate
 
-| Name | Type | Packages | State |
+| **Name** | **Type** | **Packages** | **State** |
 | Number plate detection | Object detection and OCR | Tensorflow Object detection, PaddleOCR | TODO |
 | Text generation | Transformer for text generation | Hugging face transformers | TODO |
 | Exercise correction | Pose estimation, classification | Mediapipe, SciKit-Learn | TODO |
@@ -28,7 +28,7 @@
 
 ### Advanced
 
-| Name | Type | Packages | State |
+| **Name** | **Type** | **Packages** | **State** |
 | Super resolution | GAN | Tensorflow, OpenCV | TODO |
 | Game playing | RL | OpenAI Gym, Stable baselines | TODO |
 | Machine trasnlation | Sequence to sequence | Tensorflow, PyTorch | TODO |
