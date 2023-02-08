@@ -3,7 +3,7 @@
 
 | **Name** | **Visibility** | **Description** | **Language** | **State** |
 | [Time is money](https://github.com/csongorpilinszkinagy/time-is-money) | Private | Rucksack method for finding the optimal hourly rate | Python but should convert to JS | Unfinished |
-| [Reinforcement learning](https://github.com/csongorpilinszkinagy/reinforcement-learning) | Public | Course by David Silver | Python | Unfinished |
+| [Reinforcement learning](https://github.com/csongorpilinszkinagy/reinforcement-learning-old) | Private | Course by David Silver | Python | Unfinished |
 | [SaaS project](https://github.com/csongorpilinszkinagy/saas-project) | Public | Course by Will Kwan | | TODO |
 | [Task filter](https://github.com/csongorpilinszkinagy/task-filter), [elo voting](https://github.com/csongorpilinszkinagy/elo_voting) and [elo picture ranking](https://github.com/csongorpilinszkinagy/elo_picture_ranking) | Private | Interactive Elo score ordering of task importance and picture ordering | JS | TODO |
 | [RLight](https://github.com/csongorpilinszkinagy/RLight) | Public | Light automation using video and RL | Python | TODO |
